@@ -1,4 +1,4 @@
-# Collaborative Code Editor
+# Collaborative Coding Ide
 
 A real-time collaborative code editor built with React, Node.js, and Socket.IO. Code together with your team in real-time with features like syntax highlighting, cursor tracking, and multi-user support.
 
@@ -214,9 +214,6 @@ CMD ["npm", "start"]
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
